@@ -1,4 +1,4 @@
-![ITBA](https://agcsoft.github.io/infovis/images/Logo.png)
+![ITBA](https://agcsoft.github.io/infovis/images/Logo_ITBA.png)
 # Big Data
 ## Visualizaciones
 ---
