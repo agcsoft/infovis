@@ -1,10 +1,10 @@
 ![ITBA](https://agcsoft.github.io/infovis/images/Logo.png)
 # Big Data
 ## Visualizaciones
-
+---
 ### Docente: Ariel Aizemberg 
 ### Alumno : Andrés Guillermo Concheso
-
+---
 ## Index
 
 | Usando   | Descripción |
