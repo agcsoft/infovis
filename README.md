@@ -1,4 +1,3 @@
-![ITBA](/images/logo.png)
-Format: ![ITBA](url)
+![ITBA](https://agcsoft.github.io/infovis/images/Logo.png)
 # infovis
 ITBA Big Data
